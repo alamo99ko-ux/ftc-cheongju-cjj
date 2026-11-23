@@ -200,7 +200,7 @@ export const IMAGES = {
   heroDa40: '/src/assets/images/hero_da40_apron_1795428010328.jpg',
   fleetDa42: '/src/assets/images/fleet_da42_twin_1795428010769.jpg',
   ftdSimulator: '/src/assets/images/ftd_simulator_cockpit_1795428011017.jpg',
-  muanRunway: '/src/assets/images/muan_runway_hangar_1795428010808.jpg',
+  muanRunway: '/src/assets/images/runway_hangar_06l_1795429298553.jpg',
 };
 
 export const OFFICIAL_CJU_URL = 'https://www.cju.ac.kr/043dic/index.do';

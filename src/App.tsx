@@ -183,7 +183,7 @@ export default function App() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-3 text-sm font-semibold text-white bg-blue-700/90 hover:bg-blue-600 border border-blue-500/40 rounded-lg transition-colors duration-150 whitespace-nowrap shrink-0 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400"
                 >
-                  <span>청주대학교 비행교육원</span>
+                  <span>{t.hero.secondaryCta}</span>
                   <ArrowUpRight className="w-4 h-4" />
                 </a>
               </div>
@@ -275,7 +275,7 @@ export default function App() {
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-blue-700 hover:text-blue-900 underline underline-offset-4"
                   >
-                    <span>청주대학교 비행교육원</span>
+                    <span>{t.overview.officialDirectLabel}</span>
                     <ArrowUpRight className="w-3.5 h-3.5" />
                   </a>
                 </dd>
@@ -883,7 +883,7 @@ export default function App() {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2.5 text-xs sm:text-sm font-semibold text-white bg-blue-800 hover:bg-blue-700 rounded-lg transition-colors duration-150 self-start lg:self-auto whitespace-nowrap shrink-0 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400"
             >
-              <span>청주대학교 비행교육원 (cju.ac.kr/043dic)</span>
+              <span>{t.hero.officialSiteLabel}</span>
               <ArrowUpRight className="w-4 h-4" />
             </a>
           </div>

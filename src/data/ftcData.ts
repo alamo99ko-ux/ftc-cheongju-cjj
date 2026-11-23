@@ -254,7 +254,7 @@ export const CONTENT: Record<Locale, LocaleContent> = {
       authorityValue: '청주 본원(청주국제공항) & 무안 분원(무안국제공항)',
       portalLabel: '대표 도메인',
       portalValue: 'cflight-training.ac.kr',
-      officialDirectLabel: '청주대학교 비행교육원 공식 웹 연결',
+      officialDirectLabel: '청주대학교 비행교육원',
       bases: [
         {
           code: 'RKTU · 본원',
@@ -640,7 +640,7 @@ export const CONTENT: Record<Locale, LocaleContent> = {
         { id: 'facilities', label: 'Facilities' },
         { id: 'curriculum', label: 'Curriculum' },
       ],
-      ctaLabel: '청주대학교 비행교육원 ↗',
+      ctaLabel: 'CJU FTC Official ↗',
     },
     hero: {
       institutionLine: 'Cheongju University Flight Training Center · MOLIT Approved Training Organization',
@@ -649,9 +649,9 @@ export const CONTENT: Record<Locale, LocaleContent> = {
       subtitle:
         'Operating from dual international airport hubs at Cheongju (RKTU) and Muan (RKJB) with a unified Diamond DA-40NG & DA-42VI glass-cockpit fleet and Class-A FTD simulators to train airline-ready commercial pilots.',
       primaryCta: 'Explore Key Facts',
-      secondaryCta: '청주대학교 비행교육원 Official Site',
+      secondaryCta: 'CJU FTC Official Site',
       officialSitePrefix: 'Direct Official Portal Link',
-      officialSiteLabel: '청주대학교 비행교육원 (cju.ac.kr/043dic)',
+      officialSiteLabel: 'Cheongju University FTC (cju.ac.kr/043dic)',
       kpis: [
         { value: '9 Aircraft', label: 'Training Fleet', sub: '8 × DA-40NG · 1 × DA-42VI' },
         { value: '2 Airports', label: 'Dual Training Hubs', sub: 'Cheongju (RKTU) · Muan (RKJB)' },
@@ -678,7 +678,7 @@ export const CONTENT: Record<Locale, LocaleContent> = {
       authorityValue: 'Cheongju Main Base (RKTU) & Muan Branch (RKJB)',
       portalLabel: 'Portal Address',
       portalValue: 'cflight-training.ac.kr',
-      officialDirectLabel: 'Direct Link to Official Korean Site',
+      officialDirectLabel: 'Cheongju University FTC',
       bases: [
         {
           code: 'RKTU · Main',
@@ -1046,9 +1046,9 @@ export const CONTENT: Record<Locale, LocaleContent> = {
       ],
     },
     footer: {
-      brandTitle: 'Cheongju University Flight Training Center · 청주대학교 비행교육원',
+      brandTitle: 'Cheongju University Flight Training Center',
       portalText: 'Portal Domain: cflight-training.ac.kr',
-      officialLinkLabel: 'Direct Link to Official Site: 청주대학교 비행교육원 (https://www.cju.ac.kr/043dic/index.do)',
+      officialLinkLabel: 'Direct Link to Official Site: Cheongju University FTC (https://www.cju.ac.kr/043dic/index.do)',
       cheongjuAddr: 'Cheongju Main: 298 Daeseong-ro, Cheongwon-gu, Cheongju-si · Cheongju Int’l Airport',
       muanAddr: 'Muan Branch: 970-130 Gonghang-ro, Mangun-myeon, Muan-gun · Muan Int’l Airport',
       tel: 'Main Inquiry: +82-43-229-8114',
@@ -1064,7 +1064,7 @@ export const CONTENT: Record<Locale, LocaleContent> = {
         { id: 'facilities', label: '跑道设施' },
         { id: 'curriculum', label: '培训课程' },
       ],
-      ctaLabel: '청주대학교 비행교육원 ↗',
+      ctaLabel: '清州大学飞行教育院官网 ↗',
     },
     hero: {
       institutionLine: 'Cheongju University Flight Training Center · 韩国国土交通部指定专业飞行培训机构',
@@ -1073,9 +1073,9 @@ export const CONTENT: Record<Locale, LocaleContent> = {
       subtitle:
         '依托清州国际机场(RKTU)与务安国际机场(RKJB)双基地布局，配备钻石 DA-40NG 与 DA-42VI 玻璃座舱机队及“甲”级 FTD 飞行模拟器，系统培养符合民航标准的高素质飞行员。',
       primaryCta: '查看核心概览',
-      secondaryCta: '前往 청주대학교 비행교육원 官网',
+      secondaryCta: '前往清州大学飞行教育院官网',
       officialSitePrefix: '官方主页直连',
-      officialSiteLabel: '청주대학교 비행교육원 (cju.ac.kr/043dic)',
+      officialSiteLabel: '清州大学飞行教育院官网 (cju.ac.kr/043dic)',
       kpis: [
         { value: '9架', label: '训练飞机规模', sub: 'DA-40NG 8架 · DA-42VI 1架' },
         { value: '2座机场', label: '双基地协同运行', sub: '清州(RKTU) · 务安(RKJB)' },
@@ -1102,7 +1102,7 @@ export const CONTENT: Record<Locale, LocaleContent> = {
       authorityValue: '清州本院（清州国际机场）& 务安分院（务安国际机场）',
       portalLabel: '指定域名',
       portalValue: 'cflight-training.ac.kr',
-      officialDirectLabel: '韩文官方主页直达链接',
+      officialDirectLabel: '清州大学飞行教育院',
       bases: [
         {
           code: 'RKTU · 本院',
@@ -1472,7 +1472,7 @@ export const CONTENT: Record<Locale, LocaleContent> = {
     footer: {
       brandTitle: '清州大学飞行教育院 · Cheongju University Flight Training Center',
       portalText: '网站指定域名：cflight-training.ac.kr',
-      officialLinkLabel: '直达官方主页：청주대학교 비행교육원 (https://www.cju.ac.kr/043dic/index.do)',
+      officialLinkLabel: '直达官方主页：清州大学飞行教育院 (https://www.cju.ac.kr/043dic/index.do)',
       cheongjuAddr: '清州本院：韩国忠清北道清州市清原区大成路 298（清州大学）· 清州国际机场',
       muanAddr: '务安分院：韩国全罗南道务安郡望云面空港路 970-130（务安国际机场内）',
       tel: '咨询电话：+82-43-229-8114',
